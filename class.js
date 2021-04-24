@@ -1,4 +1,4 @@
-class PenDrive {
+class PenDrive { //after es6
     constructor(capacity, color, price){
         this.capacity = capacity;
         this.color = color;
